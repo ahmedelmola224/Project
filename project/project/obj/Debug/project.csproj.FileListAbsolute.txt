@@ -1,0 +1,12 @@
+C:\Users\ahmed\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\ahmed\source\repos\project\project\bin\Debug\project.exe
+C:\Users\ahmed\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.Form2.resources
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.Form3.resources
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.exe
+C:\Users\ahmed\source\repos\project\project\obj\Debug\project.pdb
